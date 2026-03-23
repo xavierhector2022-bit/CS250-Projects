@@ -1,41 +1,41 @@
-# 📊 Programming for Data Applications (CSCI 250)
+#  Programming for Data Applications (CSCI 250)
 
 Welcome to my project repository for **CSCI 250: Programming for Data Applications**.  
 This course explores how programming and data science techniques can be applied to solve real-world problems using modern tools and machine learning methods.
 
 ---
 
-## 🚀 About This Repository
+##  About This Repository
 
 This repository showcases a collection of projects that reflect my growth in:
 
-- 🧹 **Data Collection & Cleaning**
-- 📊 **Exploratory Data Analysis (EDA)**
-- 📈 **Data Visualization**
-- 🤖 **Machine Learning Applications**
-- 🧠 **Model Building & Evaluation**
+-  **Data Collection & Cleaning**
+-  **Exploratory Data Analysis (EDA)**
+-  **Data Visualization**
+-  **Machine Learning Applications**
+-  **Model Building & Evaluation**
 
 Each project emphasizes practical problem-solving, working with real datasets, and communicating insights effectively.
 
 ---
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 Throughout this course, I worked with a range of techniques, including:
 
-### 🔹 Supervised Learning
+###  Supervised Learning
 - Linear Regression  
 - Logistic Regression  
 
-### 🔹 Unsupervised Learning
+###  Unsupervised Learning
 - Clustering Methods  
 
-### 🌳 Advanced Models
+###  Advanced Models
 - Decision Trees  
 - Random Forests  
 - Support Vector Machines (SVM)  
 
-### 🔬 Neural Networks
+### Neural Networks
 - Perceptrons  
 - Artificial Neural Networks  
 - Deep Learning Basics  
@@ -61,7 +61,7 @@ Throughout this course, I worked with a range of techniques, including:
 
 ---
 
-## 📌 Key Takeaways
+##  Key Takeaways
 
 - Developed strong data-driven problem-solving skills  
 - Gained hands-on experience with machine learning workflows  
@@ -69,10 +69,10 @@ Throughout this course, I worked with a range of techniques, including:
 
 ---
 
-## 🤝 Collaboration
+##  Collaboration
 
 Some projects in this repository were completed collaboratively, emphasizing teamwork, communication, and shared problem-solving.
 
 ---
 
-⭐ *Feel free to explore the projects and reach out if you have any questions or feedback!*
+*Feel free to explore the projects and reach out if you have any questions or feedback!*
