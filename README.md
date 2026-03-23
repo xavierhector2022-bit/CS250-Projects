@@ -42,7 +42,7 @@ Throughout this course, I worked with a range of techniques, including:
 
 ---
 
-## 📁 Project Highlights
+##  Project Highlights
 
 - Applied machine learning models to real-world datasets  
 - Built data pipelines for cleaning and preprocessing  
@@ -51,7 +51,7 @@ Throughout this course, I worked with a range of techniques, including:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Python**
 - **Pandas & NumPy**
